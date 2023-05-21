@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnjanNeogi
-- 👀 I’m interested in Data and presenting data to get valuable outputs from it
-- 🌱 I’m currently learning Data analysis
+- 👀 I’m interested in Data and presenting data to get valuable outputs.
+- 🌱 Learning Data analysis
 - 📫 How to reach me - email me
 
 <!---
